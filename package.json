@@ -1,6 +1,6 @@
 {
   "name": "mobi-theme-dark",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The dark theme for Mobi.css",
   "main": "src/index.scss",
   "scripts": {
